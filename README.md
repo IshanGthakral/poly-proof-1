@@ -27,9 +27,9 @@ The script will mint the specified number of NFTs and assign them to your addres
 Approve and Deposit NFTs to Polygon Mumbai
 Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge:
 
-npx hardhat run scripts/approveDeposit.js --network goerli
+npx hardhat run scripts/approvedDeposit.js --network goerli
 Author
-Geet Kiran
+IshanGthakral
 
 License
 This project is licensed under the MIT License. You can make a copy of the project to use for your own purposes.
