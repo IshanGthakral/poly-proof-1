@@ -46,3 +46,4 @@ contract dogs is ERC721A {
         return prompt;
     }
 }
+.
